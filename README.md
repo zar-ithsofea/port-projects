@@ -9,5 +9,6 @@ improvements being made as I continuously work my way to improving my skills!
   &emsp;[3.1: Data Cleaning w/ Nashville Housing Data](https://github.com/zar-ithsofea/port-projects/tree/main/%5BProj_3%5D%20SQL%20Projects/SQL%20Data%20Cleaning)<br>
   &emsp;[3.2: Data Exploration + Tableau w/ COVID-19 Data](https://github.com/zar-ithsofea/port-projects/tree/main/%5BProj_3%5D%20SQL%20Projects/SQL%20Data%20Exploration%20%2B%20Tableau)<br>
   &emsp;[3.2: Data Manipulation w/ Video Games data](https://github.com/zar-ithsofea/port-projects/tree/main/%5BProj_3%5D%20SQL%20Projects/SQL%20Data%20Manipulation)<br>
+[04: Bootstrapping w/ Cookie Cats!](https://github.com/zar-ithsofea/port-projects/tree/main/%5BProj_4%5D%20AB%20Testing)<br>
 ## :dart: Roadmap
 Coming soon!
